@@ -6,14 +6,16 @@
   max-width: 800px;
 }
 #git{
-  position: relative;
+  /*position:relative;*/
   bottom: -20px;
   right: 20px;
+  margin: 20px 0 0 15px;
 }
 #add-question-btn{
-  position: absolute;
+  /*position: absolute;*/
   bottom: -20px;
   right: 20px;
+  margin: 20px 0 0 15px;
 }
 form[name="addQuestion"] .btn{
   margin: 20px 0 0 15px;
